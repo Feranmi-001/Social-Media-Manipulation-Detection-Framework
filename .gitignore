@@ -1,0 +1,6 @@
+work/data/
+work/parquet/
+**/.ipynb_checkpoints/
+__pycache__/
+.env
+*.log
